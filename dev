@@ -1,4 +1,5 @@
+
 #!/bin/bash
 
 # this  is a test project for git
- sudo apt update
+ii sudo apt update
